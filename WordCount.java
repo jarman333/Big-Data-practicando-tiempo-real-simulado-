@@ -228,7 +228,7 @@ public class WordCount {
      * this option to choose a different input file or glob.
      */
     @Description("Path of the file to read from")
-    @Default.String("gs://dataflow-apache-quickstart_dataflowbatchjsoncsv/entrada/leo.txt")
+    @Default.String("gs://dataflow-apache-quickstart_booming-bonito-420721/entrada/julio.txt")
     String getInputFile();
 
     void setInputFile(String value);
